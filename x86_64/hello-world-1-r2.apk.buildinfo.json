@@ -1,5 +1,5 @@
 {
-    "carch": "x86_64",
+    "arch": "x86_64",
     "pkgname": "hello-world",
     "pkgrel": "2",
     "pkgver": "1",
