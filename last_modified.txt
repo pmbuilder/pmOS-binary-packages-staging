@@ -1,1 +1,1 @@
-x86_64/0xffff-0.7-r1.apk
+x86_64/ccache-cross-symlinks-1-r2.apk
