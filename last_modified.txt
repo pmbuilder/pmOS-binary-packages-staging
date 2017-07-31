@@ -1,1 +1,1 @@
-x86_64/gcc-cross-wrappers-1-r1.apk
+x86_64/heimdall-1.4.2-r2.apk
