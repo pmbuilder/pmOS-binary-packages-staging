@@ -1,1 +1,1 @@
-x86_64/postmarketos-base-2-r3.apk
+x86_64/qemu-user-static-repack-2.8-r6.apk
