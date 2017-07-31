@@ -1,1 +1,1 @@
-x86_64/ccache-cross-symlinks-1-r2.apk
+x86_64/gcc-cross-wrappers-1-r1.apk
