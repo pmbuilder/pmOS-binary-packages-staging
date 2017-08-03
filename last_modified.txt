@@ -1,1 +1,1 @@
-x86_64/musl-armhf-1.1.16-r17.apk
+x86_64/postmarketos-mkinitfs-0.3.0-r1.apk
