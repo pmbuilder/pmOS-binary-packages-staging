@@ -1,1 +1,1 @@
-x86_64/gcc-armhf-6.4.0-r4.apk
+x86_64/musl-armhf-1.1.16-r17.apk
