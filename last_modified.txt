@@ -1,1 +1,1 @@
-x86_64/busybox-static-armhf-1.27.0-r4.apk
+x86_64/musl-aarch64-1.1.16-r17.apk
