@@ -1,1 +1,1 @@
-x86_64/postmarketos-mkinitfs-0.3.2-r3.apk
+x86_64/postmarketos-mkinitfs-hook-usb-shell-0.1.0-r0.apk
