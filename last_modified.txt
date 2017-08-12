@@ -1,1 +1,1 @@
-x86_64/gcc-aarch64-6.4.0-r4.apk
+x86_64/busybox-static-armhf-1.27.1-r0.apk
