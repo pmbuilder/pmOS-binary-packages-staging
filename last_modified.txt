@@ -1,1 +1,1 @@
-x86_64/busybox-static-aarch64-1.27.1-r0.apk
+x86_64/mkbootimg-14.1-r1.apk
