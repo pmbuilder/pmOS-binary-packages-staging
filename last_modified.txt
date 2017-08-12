@@ -1,1 +1,1 @@
-x86_64/mkbootimg-14.1-r1.apk
+x86_64/unpackbootimg-14.1-r1.apk
